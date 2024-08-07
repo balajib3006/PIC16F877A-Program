@@ -1,6 +1,6 @@
 /*
  * File:   main.c
- * Author: scamanderoffl
+ * Author: Balaji
  *
  * Created on 12 March, 2022, 3:30 PM
  */
